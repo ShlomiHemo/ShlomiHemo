@@ -14,31 +14,45 @@
 - Java
 - JavaScript
 - C / C++ / C#
-- HTML
+- HTML / CSS
 
 ### Frameworks & Libraries
-- React
+- React (Web & React Native)
 - PyTorch
 - Pandas
 - Selenium
+- Material-UI / Styled Components
+- Leaflet (maps)
+- Vision Transformers / Transformers library
 
-### Databases
+### Databases & Storage
 - MySQL
+- Firebase Realtime Database
+- IndexedDB (Offline Storage)
 
 ### DevOps & Backend
 - Git & GitHub
-- Jenkins
-- Tomcat
-- Gatling
+- Jenkins (CI/CD Pipelines)
+- Apache Tomcat
+- Gatling (Performance Testing)
+- Build & Deployment Automation
+- Automated Monitoring & Logging Scripts
 
-### Concepts
+### Concepts & Skills
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Machine Learning Fundamentals
-- CI/CD Pipelines
-- Build & Deployment Automation
-- Offline Storage & Caching Concepts
-- Problem Solving
+- Machine Learning & Deep Learning Fundamentals
+- Web Security Best Practices (SQL Injection & XSS Mitigation)
+- Offline-first & Progressive Web App Concepts
+- Problem Solving & Software Architecture
+
+## 📂 Projects
+
+- **Pneumonia Detection 🫁** – Deep learning project detecting pneumonia from chest X-rays using Custom CNN, ResNet50, and Vision Transformer models.
+- **DevOps Project** – Complete CI/CD pipeline for a Java JSP app including automated deployment, testing, monitoring, and performance benchmarking.
+- **Shomer Ahi** – Real-time security response platform with web dashboard and mobile app for event management and location tracking.  
+- **CostManager 💰** – Full-stack offline-capable expense management app with React, IndexedDB, and interactive analytics.  
+- **SecuritySqlXSS** – Hands-on web security demo showcasing SQL Injection & XSS vulnerabilities and their mitigation.  
 
 ---
 
